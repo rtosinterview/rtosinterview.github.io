@@ -7,6 +7,69 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://rtosinterview.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Messaging</title>
+      <link>http://rtosinterview.github.io/docs/rtos/messaging/</link>
+      <pubDate>Sun, 04 Apr 2021 01:53:08 +0530</pubDate>
+      
+      <guid>http://rtosinterview.github.io/docs/rtos/messaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sync</title>
+      <link>http://rtosinterview.github.io/docs/rtos/sync/</link>
+      <pubDate>Sun, 04 Apr 2021 01:52:25 +0530</pubDate>
+      
+      <guid>http://rtosinterview.github.io/docs/rtos/sync/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduler</title>
+      <link>http://rtosinterview.github.io/docs/rtos/scheduler/</link>
+      <pubDate>Sun, 04 Apr 2021 01:49:24 +0530</pubDate>
+      
+      <guid>http://rtosinterview.github.io/docs/rtos/scheduler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task</title>
+      <link>http://rtosinterview.github.io/docs/rtos/task/</link>
+      <pubDate>Sun, 04 Apr 2021 01:47:48 +0530</pubDate>
+      
+      <guid>http://rtosinterview.github.io/docs/rtos/task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://rtosinterview.github.io/docs/rtos/interrupts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rtosinterview.github.io/docs/rtos/interrupts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://rtosinterview.github.io/docs/rtos/memory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rtosinterview.github.io/docs/rtos/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://rtosinterview.github.io/docs/rtos/mutex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rtosinterview.github.io/docs/rtos/mutex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>http://rtosinterview.github.io/docs/rtos/rtos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14,6 +77,15 @@
       <guid>http://rtosinterview.github.io/docs/rtos/rtos/</guid>
       <description>Columns#Columns help organize shorter pieces of content horizontally for readability.
 {{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example#Left Content Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://rtosinterview.github.io/docs/rtos/timers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rtosinterview.github.io/docs/rtos/timers/</guid>
+      <description></description>
     </item>
     
   </channel>
